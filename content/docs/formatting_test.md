@@ -28,4 +28,4 @@ code
 block
 ```
 
-![](other8026)
+![](other8026.jpeg)
