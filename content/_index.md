@@ -1,6 +1,6 @@
 ---
-title: My Site
-toc: false
+title: Community docs
+toc: true
 ---
 
 This is the landing page.
@@ -14,4 +14,4 @@ This is the landing page.
 
 ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+There's no documentation here.

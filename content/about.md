@@ -1,6 +1,7 @@
 ---
 title: About
 type: about
+toc: true
 ---
 
-This is the about page.
+Cool OS
