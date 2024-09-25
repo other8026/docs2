@@ -2,7 +2,7 @@
 title: Documentation
 ---
 
-This is a demo of the theme's documentation layout.
+Documentation's landing page.
 
 ## Hello, World!
 
@@ -12,6 +12,6 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("This is from Golang? Why?")
+    fmt.Println("Hi, I'm a code block.")
 }
 ```

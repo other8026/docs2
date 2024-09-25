@@ -4,4 +4,4 @@ type: about
 toc: true
 ---
 
-Cool OS
+Cool OS and cool people

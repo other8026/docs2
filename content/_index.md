@@ -14,4 +14,4 @@ This is the landing page.
 
 ## Documentation
 
-There's no documentation here.
+There's no _good_ documentation here.
